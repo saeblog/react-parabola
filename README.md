@@ -2,7 +2,7 @@
 
 # In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
 
-- Open the project in your prefered code editor.
+# - Open the project in your prefered code editor.
 
 In the first terminal
 
